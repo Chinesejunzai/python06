@@ -7,7 +7,11 @@ print "nihao"
 
 print "user"
 
+
 num1=2
+
+num = 1
+
 
 
 
