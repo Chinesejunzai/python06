@@ -7,6 +7,8 @@ print "nihao"
 
 print "user"
 
+num = 1
+
 
 
 
