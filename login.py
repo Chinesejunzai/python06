@@ -12,6 +12,8 @@ num1=2
 
 num = 1
 
+name = mingren
+
 
 hah = 123445
 
