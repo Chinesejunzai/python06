@@ -7,6 +7,8 @@ print "nihao"
 
 print "user"
 
+city = "muye1"
+
 
 num1=2
 
